@@ -1,14 +1,14 @@
 body {  
-    background-color: green;
-  }
+  background-color: green;
+}
   
-  h1 {
-    color: white;
-    text-align: center;
-    font-family: centaur;
-    font-size: 50px;  
-  }
+h1 {
+  color: white;
+  text-align: center;
+  font-family: centaur;
+  font-size: 50px;  
+}
   
-  p {
-    font-size: 25px;
-  }
+p {
+  font-size: 25px;
+}
