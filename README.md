@@ -1,5 +1,5 @@
 # Git_Repos
 
-Added "Webpage Project" folder.
+Added "Website Project" folder.
 
 Removed HTML, CSS and JS files.
