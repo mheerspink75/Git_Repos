@@ -1,15 +1,5 @@
 # Git_Repos
 
-Webpage in progress.
+Added "Webpage Project" folder.
 
-# Webpage.html 
-
-Added line to link `Hello World!.js`. 
-
-```
-<script src="Hello World!.js"></script>
-```
-
-# style.css
-
-# Hello World!.js
+Removed HTML, CSS and JS files.
