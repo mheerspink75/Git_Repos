@@ -31,7 +31,7 @@ body {
 
 .two {
   grid-column: 1 / 4;
-  background-image: url("/Website\ Project/images/asset_6.jpeg");
+  background-image: url("/images/asset_6.jpeg");
   height: 0 auto;
   font-size: 25px;
   color: white;
@@ -47,7 +47,7 @@ hr {
   height: 1px; 
   border:none; 
   color: black; 
-  background-color: lightgray;     
+  background-color: lightgrey;     
   width: auto;
   column-width: auto;
 }
@@ -65,7 +65,7 @@ a:link, a:visited {
 .nav
 a:hover, a:active {
   background-color: #ffd54f;
-  border-radius: 15em;
+  border-radius: 10px;
 }
 
 .menu
@@ -76,7 +76,7 @@ a:link, a:visited {
   background-color: #ffd54f;
   border-color: black;
   border-style: solid;
-  border-radius: 15em;
+  border-radius: 10px;
   margin: 10px;
   cursor: pointer;
   width: 275px;
@@ -97,7 +97,7 @@ a:hover, a:active {
 .footer {
   text-align: left;
   background-color: #ffd54f;
-  line-height: 2em;
+  line-height: 50px;
 }
 
 h1 {
