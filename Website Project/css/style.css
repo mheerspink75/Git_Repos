@@ -6,7 +6,7 @@
 }
 
 .wrapper > div {
-  border-radius: 10px;
+  border-radius: 0px;
   padding: 30px; 
 }
 
@@ -25,19 +25,29 @@ body {
 
 .one {
   grid-column: 1 / 4;
-  grid-row: 1;
-  background-image: url("/images/asset_6.jpeg");
+  background-color: black;
+  color: white; 
+}
+
+.two {
+  grid-column: 1 / 4;
+  background-image: url("/Website\ Project/images/asset_6.jpeg");
+  height: 0 auto;
   font-size: 25px;
   color: white;
+  text-align: center;
 }
 
-.two { 
+.three { 
   grid-column: 1 / 4;
-  grid-row: 2 / 6;
   background-color: #f5f2f0;
-}
+} 
 
-.hr {
+hr { 
+  height: 1px; 
+  border:none; 
+  color: black; 
+  background-color: lightgray;     
   width: auto;
   column-width: auto;
 }
