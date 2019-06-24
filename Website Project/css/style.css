@@ -14,7 +14,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 0px;
-  grid-auto-rows: auto);
+  grid-auto-rows: auto;
 }
 
 .navbar a {
@@ -65,7 +65,7 @@ a:link, a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  color: rgb(30, 31, 0);
+  color: blue;
   text-shadow: 2px 2px 6px #778899;
 }
 
