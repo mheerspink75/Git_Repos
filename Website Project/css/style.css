@@ -32,12 +32,12 @@ body {
   grid-column: 1 / 4;
   background-image: url("/Website Project/images/asset_6.jpeg");
   height: 0 auto;
-  text-align: center; 
 }
 
 .three { 
   grid-column: 1 / 4;
   background-color: slategray;
+  height: auto;
 } 
 
 hr { 
@@ -60,6 +60,7 @@ hr {
 .footer {
   text-align: left;
   background-color: #ffd54f;
+  padding: 20px;
 }
 
 h1 {
@@ -67,7 +68,7 @@ h1 {
   color: white;
   border-color: white;
   border-style: solid;
-  border-radius: 80px;
+  border-radius: 0px;
   text-align: center;
   text-shadow: 2px 2px 6px white;
   font-size: 50px;
@@ -78,7 +79,6 @@ h1 {
 
 .menu
 a:link, a:visited {
-  text-align: center;
   font-size: 15px;
   color: white;
   border-color: white;
@@ -113,8 +113,23 @@ a:hover, a:active {
   background-color: #ffd54f;
 }
 
+h2 {
+  text-align: left;
+  margin: 20px;
+}
 p {
+  
   color: #ffd54f;
   text-decoration: none;
+  text-align: left;
+  margin: 20px;
 }
+
+iframe {
+  margin: 20px;
+  width: auto;
+  height: 400px;
+  display: flex;
+}
+
 
