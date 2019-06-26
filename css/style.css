@@ -30,7 +30,7 @@ body {
 
 .two {
   grid-column: 1 / 4;
-  background-image: url("/Website Project/images/asset_6.jpeg");
+  background-image: url("/images/asset_6.jpeg");
   height: 0 auto;
 }
 
@@ -48,9 +48,6 @@ hr {
   column-width: auto;
 }
 
-.icon {
-  background-color: #eeeeee;
-}
 .icon img{
   margin: 10px;
   width: 75px;
@@ -65,10 +62,11 @@ hr {
 
 h1 {
   padding: 10px 40px;
-  color: white;
+  color: whitesmoke;
   border-color: white;
-  border-style: solid;
-  border-radius: 0px;
+  border-left-style: dotted;
+  border-right-style: dotted;
+  border-radius: 50px;
   text-align: center;
   text-shadow: 2px 2px 6px white;
   font-size: 50px;
@@ -77,8 +75,8 @@ h1 {
   height: auto;
 }
 
-.menu
-a:link, a:visited {
+.menu a:link, 
+.menu a:visited {
   font-size: 15px;
   color: white;
   border-color: white;
@@ -92,15 +90,16 @@ a:link, a:visited {
   display: inline-block;  
 }
 
-.menu
-a:hover, a:active {
+.menu a:hover, 
+.menu a:active {
   color: black;
   background-color: #ffff00;
 }
 
-.navbar 
-a:link, a:visited {
+.navbar a:link, 
+.navbar a:visited {
   background-color: #000000;
+  color: white;
   overflow: auto;
   float: left;
   padding: 12px;
@@ -108,8 +107,8 @@ a:link, a:visited {
   font-size: 12px;  
 }
 
-.navbar
-a:hover, a:active {
+.navbar a:hover, 
+.navbar a:active {
   background-color: #ffd54f;
 }
 

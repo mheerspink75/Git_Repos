@@ -1,7 +1,7 @@
 * {box-sizing: border-box;}
 
 .wrapper {
-  max-width: 1280px;
+  max-width: auto;
   margin: 0 auto;
 }
 
@@ -31,7 +31,7 @@ body {
 
 .two {
   grid-column: 1 / 4;
-  background-image: url("/Website Project/images/asset_6.jpeg");
+  background-image: url("/images/asset_6.jpeg");
   height: 0 auto;
   font-size: 25px;
   color: white;
@@ -52,8 +52,7 @@ hr {
   column-width: auto;
 }
 
-.nav
-a:link, a:visited {
+.nav a:link, a:visited {
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
