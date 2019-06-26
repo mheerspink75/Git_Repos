@@ -3,9 +3,13 @@
 
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=0.86, maximum-scale=3.0, minimum-scale=0.86">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/style.css" />
   <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=0.86, maximum-scale=3.0, minimum-scale=0.86">
   <title>Tools</title>
 </head>
 
@@ -21,6 +25,8 @@
         <a class="top_nav" href="About.html">About</a>
       </div>
     </div>
+
+
     <div class="two">
       <h1>Tools</h1>
       <nav class="menu">
@@ -44,8 +50,37 @@
       </div>
       <hr>
       <hr>
-      <h2>Tools:</h2>
-      <p>There haven't been any tools added yet.</p>
+
+      <div id="demo" class="carousel slide" data-ride="carousel">
+
+        <!-- Indicators -->
+        <ul class="carousel-indicators">
+          <li data-target="#demo" data-slide-to="0" class="active"></li>
+          <li data-target="#demo" data-slide-to="1"></li>
+          <li data-target="#demo" data-slide-to="2"></li>
+        </ul>
+
+        <!-- The slideshow -->
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="/images/Mobile_Link_v2.png">
+          </div>
+          <div class="carousel-item">
+            <img src="/images/Screenshot_v1.png">
+          </div>
+          <div class="carousel-item">
+            <img src="/images/Screenshot_v2.png">
+          </div>
+        </div>
+
+        <!-- Left and right controls -->
+        <a class="carousel-control-prev" href="#demo" data-slide="prev">
+          <span class="carousel-control-prev-icon"></span>
+        </a>
+        <a class="carousel-control-next" href="#demo" data-slide="next">
+          <span class="carousel-control-next-icon"></span>
+        </a>
+      </div>
       <hr>
       <hr>
       <footer class="footer">*Live sessions are held Tuesdays and Fridays 6-8pm</footer>
