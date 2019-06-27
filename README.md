@@ -2,6 +2,18 @@
 
 *A full description of the project scope criteria can be found [here](https://sites.google.com/view/reference-page/projects).*
 
+---
+
+**Name:  Matt Heerspink**
+**Contact: mheerspink75@gmail.com**
+**Organization: Texas A&M University Kingsville** 	
+**Program:  Full Stack Web Development Bootcamp**
+**Project:  Basic Business or Personal Website**
+
+##Abstract:  
+There is a lot of debate about what the future of web applications will look like.  More websites are presently implementing responsive web apps to accommodate mobile screens. The overwhelming majority of mobile users prefer using mobile apps over browser-based apps on mobile devices.  In the future, as more bandwidth and coverage become available to mobile devices, this may change with the network architecture. Mobile devices may take the form of thin clients that are reliant on server based applications. As web browsers become more advanced, PWAs or Progressive Web Apps are gaining more popularity. As a student tasked with creating a basic website, I created this site as a tool to supplement my studies and research these topics further.  As I continue to learn more coding languages I will continue updating and integrating this site.
+
+
 ##Workflow Requirements
 
 ###User Stories:
@@ -21,7 +33,7 @@
 
 ###Development Phase:
 
-**2.**  GitHub Repository, *["Git_Repos"](https://mheerspink75.github.io/Pages/Mobile_Link_v1.html)*, recreates the basic design and functionality of the *[Google Sites Reference Pages](https://sites.google.com/view/reference-page/home)*.  *["Git_Repos"](https://mheerspink75.github.io/Pages/Mobile_Link_v1.html)* HTML5 and CSS3 is written with Microsoft Visual Studio Code. I focused here on the simplicity of the user interface design to accommodate mobile screens and serve as a centralized point for linking pages and launching apps. The mobile view of the version 1 design can be found hosted on  *[Google Sites Mobile Links Reference Page](https://sites.google.com/view/reference-page/mobile-links)*  The reengineered copy can be found here - *[Mobile Link v1](https://mheerspink75.github.io/Pages/Mobile_Link_v1.html)* Hosted on GitHub.
+**2.**  GitHub Repository, *["Git_Repos"](https://mheerspink75.github.io/Pages/Mobile_Link_v1.html)*, recreates the basic design and functionality of the *[Google Sites Reference Pages](https://sites.google.com/view/reference-page/home)*.  *["Git_Repos"](https://mheerspink75.github.io/Pages/Mobile_Link_v1.html)* HTML5 and CSS3 is written with Microsoft Visual Studio Code. I focused here on the simplicity of the user interface design to accommodate mobile screens and serve as a centralized point for linking pages and launching apps. The mobile view of the version 1 design can be found hosted on  *[Google Sites Mobile Links Reference Page](https://sites.google.com/view/reference-page/mobile-links)*  The reengineered copy can be found here - *[Mobile Link v1](https://mheerspink75.github.io/Pages/Mobile_Link_v1.html)* hosted on GitHub.
 
 ![Screenshot v1](/images/Screenshot_v1.png)
 
@@ -29,3 +41,4 @@
 
 ![Logo v2](/images/Mobile_Link_v2.png)
 ![Screenshot v2](/images/Screenshot_v2.png)
+
