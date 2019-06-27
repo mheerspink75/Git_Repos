@@ -18,11 +18,14 @@ There is a lot of debate about what the future of web applications will look lik
 
 ### User Stories:
 
-**1.** "As a student studying web development I want a solution that will give me access to course materials from both web and mobile browsers so that I can study more efficiently."  *  - Daniel*
+**1.** "As a student studying web development I want a solution that will give me access to course materials from both web and mobile browsers so that I can study more efficiently."  
+*- Daniel*
 
-**2.** "As a professional web developer I have to stay organized and be prepared. I want a centralized solution that will give me access to all of my cloud backups and documentation from both web and mobile browser." *  - Laura*
+**2.** "As a professional web developer I have to stay organized and be prepared. I want a centralized solution that will give me access to all of my cloud backups and documentation from both web and mobile browser."  
+*- Laura*
 
-**3.** "As a remote worker I need access to all of my online tools and conferencing apps from both web and mobile browser." *  - Quincy*
+**3.** "As a remote worker I need access to all of my online tools and conferencing apps from both web and mobile browser."  
+*- Quincy*
 
 ### Wireframes:
 
@@ -39,8 +42,7 @@ The reengineered copy can be found here - *[Mobile Link v1](https://mheerspink75
 
 ![Screenshot v1](/images/Screenshot_v1.png)
 
-**3.** I then reworked the interface design to include more content pages, navigation menus, CSS grid and Google Custom Search optimized for web development search criteria. I have included a user input form to add functionality to the [About Page](https://mheerspink75.github.io/Pages/About.html).  
-The GitHub Repository *["mheerspink75.github.io"](https://github.com/mheerspink75/mheerspink75.github.io)* is now hosting the updated version [Mobile Link v2](https://mheerspink75.github.io/index.html).
+**3.** I then reworked the interface design to include more content pages, navigation menus, CSS grid and Google Custom Search optimized for web development search criteria. I have included a user input form to add functionality to the [About Page](https://mheerspink75.github.io/Pages/About.html). The GitHub Repository *["mheerspink75.github.io"](https://github.com/mheerspink75/mheerspink75.github.io)* is now hosting the updated version [Mobile Link v2](https://mheerspink75.github.io/index.html).
 
 ![Logo v2](/images/Mobile_Link_v2.png)
 ![Screenshot v2](/images/Screenshot_v2.png)
