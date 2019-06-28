@@ -101,8 +101,8 @@ h1 {
   background-color: #ffff00;
 }
 
-.navbar a:link, 
-.navbar a:visited {
+.nav a:link, 
+.nav a:visited {
   background-color: #000000;
   color: white;
   overflow: auto;
@@ -112,8 +112,8 @@ h1 {
   font-size: 12px;  
 }
 
-.navbar a:hover, 
-.navbar a:active {
+.nav a:hover, 
+.nav a:active {
   background-color: #ffd54f;
 }
 
