@@ -30,7 +30,7 @@ There is a lot of debate about what the future of web applications will look lik
 ### Wireframes:
 
 **1.** First, I created a basic layout of the web and mobile interface design on Google sites.  
-*The Google Sites Reference Page can be found [here](https://sites.google.com/view/reference-page/projects).* 
+*The Google Sites Reference Page can be found [here](https://sites.google.com/view/reference-page/home).* 
 
 ![Screenshot v0](/images/Screenshot_v0.png)
 
@@ -50,6 +50,6 @@ The reengineered copy can be found here - *[Mobile Link v1](https://mheerspink75
 
 **4.** Created NavTool page for desktop to increase productivity when adding new page layouts to Mobile Link. NavTool serves as a development tool for quickly testing new page layout design and functionality.  
 
-*NavTool can be found [here](https://mheerspink75.github.io/NavTool)*  
+*NavTool can be found [here](https://mheerspink75.github.io/NavTool/NavTool)*  
 
 ![Screenshot v2](/images/Screenshot_NavTool.png)
