@@ -38,7 +38,7 @@ There is a lot of debate about what the future of web applications will look lik
 
 **2.**  GitHub Repository, *["Git_Repos"](https://github.com/mheerspink75/Git_Repos)*, recreates the basic design and functionality of the *[Google Sites Reference Pages](https://sites.google.com/view/reference-page/home)*. HTML5 and CSS3 is written with Microsoft Visual Studio Code. I focused here on the simplicity of the user interface design to accommodate mobile screens and serve as a centralized point for linking pages and launching apps.  
 The mobile view of the version 1 design can be found hosted on  *[Google Sites Mobile Links Reference Page](https://sites.google.com/view/reference-page/mobile-links)*  
-The reengineered copy can be found here - *[Mobile Link v1](https://mheerspink75.github.io/MLlv1/Mobile_Link_v1.html)* hosted on GitHub.
+The reengineered copy can be found here - *[Mobile Link v1](https://mheerspink75.github.io/MLv1/Mobile_Link_v1.html)* hosted on GitHub.
 
 ![Screenshot v1](/images/Screenshot_v1.png)
 
