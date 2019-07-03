@@ -42,7 +42,7 @@ The reengineered copy can be found here - *[Mobile Link v1](https://mheerspink75
 
 ![Screenshot v1](/images/Screenshot_v1.png)
 
-**3.** I then reworked the interface design to include more content pages, navigation menus, CSS grid and Google Custom Search optimized for web development search criteria. I have included a user input form to add functionality to the [About Page](https://mheerspink75.github.io/Pages/About.html). The GitHub Repository *["mheerspink75.github.io"](https://github.com/mheerspink75/mheerspink75.github.io)* is now hosting the updated version [Mobile Link v2](https://mheerspink75.github.io/MLv2/MobileLinkv2.html).
+**3.** I then reworked the interface design to include more content pages, navigation menus, CSS grid and Google Custom Search optimized for web development search criteria. I have included a user input form to add functionality to the [About Page](https://mheerspink75.github.io/Pages/About.html). The GitHub Repository *["mheerspink75.github.io"](https://github.com/mheerspink75/mheerspink75.github.io)* is now hosting the updated version [Mobile Link v2](https://mheerspink75.github.io/index.html).
 
 ![Logo v2](/images/Mobile_Link_v2.png)  
 
