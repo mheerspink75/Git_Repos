@@ -118,8 +118,12 @@ h2 {
   text-align: left;
   margin: 20px;
 }
+
+h3{
+  text-align: left;
+  margin: 20px;
+}
 p {
-  
   color: #ffd54f;
   text-decoration: none;
   text-align: left;
@@ -141,6 +145,13 @@ p {
   height: 100%;
 }
 
+.logo img{
+  background-color: lightcyan;
+  margin: 20px;
+  border-radius: 20px;
+  height: 200px;
+  width: auto;
+}
 /* input form on the about page */
 
 * {
