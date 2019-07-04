@@ -1,83 +1,79 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=0.86, maximum-scale=3.0, minimum-scale=0.86">
-  <link rel="stylesheet" href="/css/style.css" />
-  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
-  <title>About</title>
-</head>
-
-<body>
-
-  <div class="wrapper">
-    <div class="one">
-      <header>
-        <nav class="nav">
-          <a href="/index.html">Home</a>
-          <a href="/Pages/Projects.html">Projects</a>
-          <a href="/Pages/Tools.html">Tools</a>
-          <a href="/Pages/About.html">About</a>
-          <a href="/MLv1/Mobile_Link_v1.html">v1</a>
-        </nav>
-    </div>
-
-    <div class="two">
-      <div>
-        <h1>About</h1>
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=0.86, maximum-scale=3.0, minimum-scale=0.86">
+      <link rel="stylesheet" href="/css/style.css" />
+      <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+      <title>About</title>
+   </head>
+   <body>
+      <div class="wrapper">
+         <div class="one">
+            <header>
+               <nav class="nav">
+                  <a href="/index.html">Home</a>
+                  <a href="/Pages/Projects.html">Projects</a>
+                  <a href="/Pages/Tools.html">Tools</a>
+                  <a href="/Pages/About.html">About</a>
+                  <a href="/MLv1/Mobile_Link_v1.html">v1</a>
+                  <a href="/MLv2/MobileLinkv2.html">v2</a>
+               </nav>
+            </header>
+         </div>
+         <div class="two">
+            <div>
+               <h1>About</h1>
+            </div>
+         </div>
+         <div class="three">
+            <hr>
+            <hr>
+            <h2>Contact Me:</h2>
+            <div class="container">
+               <form action="https://formspree.io/mheerspink75@gmail.com" method="POST" />
+                  <div class="row">
+                     <div class="col-25">
+                        <label for="fname">First Name</label>
+                     </div>
+                     <div class="col-75">
+                        <input type="text" id="fname" name="firstname" placeholder="Your name.." required>
+                     </div>
+                  </div>
+                  <div class="row">
+                     <div class="col-25">
+                        <label for="lname">Last Name</label>
+                     </div>
+                     <div class="col-75">
+                        <input type="text" id="lname" name="lastname" placeholder="Your last name.." required>
+                     </div>
+                  </div>
+                  <div class="row">
+                     <div class="col-25">
+                        <label for="email">Email</label>
+                     </div>
+                     <div class="col-75">
+                        <input type="text" id="email" name="email" placeholder="Your Email address.." required>
+                     </div>
+                  </div>
+                  <div class="row">
+                     <div class="col-25">
+                        <label for="subject">Subject</label>
+                     </div>
+                     <div class="col-75">
+                        <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"
+                           required></textarea>
+                     </div>
+                  </div>
+                  <div class="row">
+                     <input type="submit" value="Submit">
+                  </div>
+               </form>
+               <hr>
+               <hr>
+               <footer class="footer">*Live sessions are held Tuesdays and Fridays 6-8pm</footer>
+            </div>
+         </div>
       </div>
-    </div>
-    </header>
-
-    <div class="three">
-      <hr>
-      <hr>
-      <h2>Contact Me:</h2>
-      <div class="container">
-        <form action="https://formspree.io/mheerspink75@gmail.com" method="POST" />
-        <div class="row">
-          <div class="col-25">
-            <label for="fname">First Name</label>
-          </div>
-          <div class="col-75">
-            <input type="text" id="fname" name="firstname" placeholder="Your name.." required>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-25">
-            <label for="lname">Last Name</label>
-          </div>
-          <div class="col-75">
-            <input type="text" id="lname" name="lastname" placeholder="Your last name.." required>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-25">
-            <label for="email">Email</label>
-          </div>
-          <div class="col-75">
-            <input type="text" id="email" name="email" placeholder="Your Email address.." required>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-25">
-            <label for="subject">Subject</label>
-          </div>
-          <div class="col-75">
-            <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"
-              required></textarea>
-          </div>
-        </div>
-        <div class="row">
-          <input type="submit" value="Submit">
-        </div>
-        </form>
-        <hr>
-        <hr>
-        <footer class="footer">*Live sessions are held Tuesdays and Fridays 6-8pm</footer>
-      </div>
-    </div>
-</body>
-
+   </body>
 </html>

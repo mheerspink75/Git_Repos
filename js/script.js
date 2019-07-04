@@ -1,4 +1,4 @@
-var slideInterval = 1000;
+var slideInterval = 1500;
 
 function getFigures() {
     return document.getElementById('carousel').getElementsByTagName('figure');

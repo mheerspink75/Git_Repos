@@ -11,7 +11,7 @@
 	border-radius: 10px;
 	border-style: solid;
 	border-color: white;
-	padding: 0; 
+	padding: 0px; 
 }
 
 .wrapper {
@@ -54,47 +54,40 @@ body a:visited {
 	width: auto;
 }
 
-.eleven {
+.ten {
 	grid-row: 1;
-	grid-column: 1 / 5;
+	grid-column: 0 / 4;
+	background-image: url("/images/mandelbulber_1.png");	
+}
+
+.eleven {
+	grid-row: 2;
+	grid-column: 0 / 4;
 	background-color: black;
 	background-image: url("/images/mandelbulber_1.png");
 	background-size: minmax(auto, 200%);
+	background-position: center;
+
 }
 
 .twelve {
-	grid-row: 2;
-	grid-column: 1 / 5;
+	grid-row: 3 / 3;
+	grid-column: 0 / 3;
 	background-image: url("/images/mandelbulber_1.png");
 	background-size: minmax(auto, 200%);
-	background-position: center;
+	
 }
 
 .thirteen {
-	grid-row: 3;
-	grid-column: 1 / 5;
+	grid-row: 1 / 4;
+	grid-column: 2 / 4;
 }
 
-.fourteen {
-	grid-row: 4 / 4;
-	grid-column: 1 / 5;
-	background-image: url("/images/mandelbulber_1.png");
-	background-size: minmax(auto, 200%);
-}
-
-.fifteen {
-	grid-row: 1 / 5;
-	grid-column: 2 / 5;
-	margin: 30px;
-}
-
-.logo img {
-	background-color: lightcyan;
+.logo img{
 	margin: 20px;
 	border-radius: 20px;
-	height: 200px;
 	width: auto;
-}
+  }
 
 hr {
 	height: 1px;
@@ -149,12 +142,13 @@ h1 {
   float: left;
   padding: 12px;
   text-decoration: none;
-  font-size: 15px;  
+  font-size: 15px;
 }
 
 .nav a:hover,
 .nav a:active {
 	background-color: #ffd54f;
+	color: black;
 }
 
 h2 {
@@ -191,10 +185,10 @@ p {
 
 .container {
 	position: relative;
-	padding-bottom: 65%;
+	padding-bottom: 100%;
 	padding-top: 35px;
 	overflow: hidden;
-	min-height: 350px;
+	min-height: 975px;
 }
 
 .container iframe {
@@ -211,6 +205,7 @@ p {
 	border-radius: 20px;
 	height: 200px;
 	width: auto;
+	position: relative;
 }
 
 
@@ -225,7 +220,7 @@ section#carousel>figure.visible>img {
 	display: block;
 	position: relative;
 	overflow: hidden;
-	height: 750px;
+	height: 650px;
 }
 
 section#carousel>figure>figcaption {
