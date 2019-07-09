@@ -67,7 +67,6 @@ body a:visited {
 	background-image: url("/images/mandelbulber_1.png");
 	background-size: minmax(auto, 200%);
 	background-position: center;
-
 }
 
 .twelve {
@@ -75,7 +74,6 @@ body a:visited {
 	grid-column: 0 / 3;
 	background-image: url("/images/mandelbulber_1.png");
 	background-size: minmax(auto, 200%);
-	
 }
 
 .thirteen {
